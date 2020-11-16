@@ -1,0 +1,17 @@
+.banner {
+  background-image: url(../../images/background.jpg);
+  color: #007178;
+  padding: 150px 0px;
+
+}
+
+.header {
+	height: 60px;
+	background-color: #007178;
+
+}
+
+.headerbis {
+	height: 20px;
+	background-color: #edadad
+}

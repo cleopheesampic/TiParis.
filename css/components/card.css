@@ -1,0 +1,335 @@
+.cards {
+	display: flex;
+	
+}
+
+.card {
+	padding: 40px 50px;
+	border-radius: 15px;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-basis: 1500px;
+	font-size: 18px;
+	margin: 20px;
+	text-align: center;
+	height: 60px;
+	width: 200px;
+
+}
+
+
+#bars {
+	background-image: url(../../images/bars.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#restaurants {
+	background-image: url(../../images/restaurants.jpeg);
+	background-size: cover;
+	background-position: center;	
+}
+
+#exhibitions {
+	background-image: url(../../images/exhibitions.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#volunteersservices {
+	background-image: url(../../images/volunteersservices.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+
+#lacordonnerie {
+	background-image: url(../../images/lacordonnerie.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#lafourmi {
+	background-image: url(../../images/lafourmi.jpeg);
+	background-size: cover;
+	background-position: center;	
+}
+
+#letroquet {
+	background-image: url(../../images/letroquet.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#letribalcafé {
+	background-image: url(../../images/letribalcafe.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#ledream {
+	background-image: url(../../images/ledream.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#deuxbis {
+	background-image: url(../../images/deuxbis.jpeg);
+	background-size: cover;
+	background-position: center;	
+}
+
+#ungraindécalé {
+	background-image: url(../../images/ungraindecale.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#lezérodeconduite {
+	background-image: url(../../images/lezerodeconduite.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#lepopin {
+	background-image: url(../../images/lepopin.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#bouillonpigalle {
+	background-image: url(../../images/bouillonpigalle.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#lacaravane {
+	background-image: url(../../images/lacaravane.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#ledrapeaudelafidélité {
+	background-image: url(../../images/ledrapeaudelafidelite.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#chezvan {
+	background-image: url(../../images/chezvan.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#lalcazar {
+	background-image: url(../../images/lalcazar.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#lecalimia {
+	background-image: url(../../images/lecalimia.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#lebustronome {
+	background-image: url(../../images/lebustronome.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#leparisienravi {
+	background-image: url(../../images/leparisienravi.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#leriredecabu {
+	background-image: url(../../images/leriredecabu.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#alaffiche {
+	background-image: url(../../images/alaffiche.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#muséedulouvre {
+	background-image: url(../../images/museedulouvre.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#muséeduquaibranly {
+	background-image: url(../../images/museeduquaibranly.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#muséedorsay {
+	background-image: url(../../images/museedorsay.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#institutdumondearabe {
+	background-image: url(../../images/institutdumondearabe.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#fondationcartier {
+	background-image: url(../../images/fondationcartier.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#lacitédelarchitecture {
+	background-image: url(../../images/lacitedelarchitecture.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#sirwinston{
+	background-image: url(../../images/sirwinston.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#kleber {
+	background-image: url(../../images/kleber.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#auteuil {
+	background-image: url(../../images/brasserieauteuil.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#bozinc {
+	background-image: url(../../images/bozinc.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#bowler{
+	background-image: url(../../images/bowler.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#artmoderne {
+	background-image: url(../../images/artmoderne.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#artasiatique {
+	background-image: url(../../images/artsasiatique.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#fondationLV {
+	background-image: url(../../images/fondationLV.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+#Raphaël {
+	background-image: url(../../images/Raphael.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+
+#Gabrielle {
+	background-image: url(../../images/Gabrielle.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#SèvresLaDéfense {
+	background-image: url(../../images/SevresLaDefense.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+
+#Paris-Lille {
+	background-image: url(../../images/ParisLille.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#Louise-art-student {
+	background-image: url(../../images/Louiseartstudent.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#Julien-photographer {
+	background-image: url(../../images/Julienphotographer.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#Rates {
+	background-image: url(../../images/rate.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#Schedules {
+	background-image: url(../../images/schedule.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#Contact {
+	background-image: url(../../images/contact.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#Access {
+	background-image: url(../../images/access.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,108 @@
+ /*Importing Google fonts */
+ @import url("https://fonts.googleapis.com/css2?family=Headland+One&family=Lora&display=swap");
+
+ /*Importing all components file */
+ @import url("components/container.css");
+ @import url("components/containerbis.css");
+ @import url("components/button.css");
+ @import url("components/banner.css");
+ @import url("components/card.css");
+ @import url("components/card-white.css");
+
+/* General style rules for fonts and colours */
+body {
+  font-family: 'Headland One', serif;
+  font-size: 18px;
+  margin: 0px;
+ }
+
+h1, {
+  font-family: 'Lora', serif;
+  font-weight: bold;
+
+}	
+
+h2 {
+	font-family: 'Lora', serif;
+	color: #007178;
+	font-weight: bold;
+	font-size: 30px;
+}
+   
+h3 {
+
+	font-family: 'Lora', serif;
+	color: #007178;
+	font-weight: bold;
+	padding: 30px;
+	align-content: center;
+	text-align: center;
+	font-size: 25px;
+
+	}
+
+h4 {
+	font-family: 'Lora', serif;
+	color: #007178;
+	font-weight: bold;
+	font-size: 35px;
+	text-align: center;
+
+}
+
+p {
+	font-family: 'Lora', serif;
+	color: #edadad;
+	}
+
+a{
+	text-decoration: none;
+	}
+
+
+.backhome {
+     	text-align: right;
+     	padding-top: 20px;
+     	padding-right: 20px;
+     	float: right;
+     }
+
+.row {
+	width: auto;
+	display: flex;
+	align-items: center;
+	}
+
+
+/* Style the search box inside the navigation bar */
+.topnav input[type=text] {
+  float: left;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+  color: #007178;
+  font-family: 'Lora', serif;
+
+}
+
+.bottoms {
+	display: flex;
+}
+
+.bottompage {
+	padding: 10px 5px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px rgba(0,0,0,.2);
+	text-align: center;
+	justify-content: space-around;
+	flex-grow: 1;
+	font-size: 12px;
+	margin: 20px;
+	flex-basis: 1500px;
+	height: 150px;
+	width: 250px;
+}
+
